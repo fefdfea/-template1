@@ -1,0 +1,5 @@
+@charset "UTF-8";
+body,header,article,aside,main,figure,img,h1,h2,h3,h4,h5,nav,section,div,span,a{margin: 0; padding: 0px;}
+h1,h2,h3,h4,h5,span,a{color: #fff;}
+
+a{text-decoration: none;}
